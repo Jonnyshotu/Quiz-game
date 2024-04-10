@@ -88,6 +88,6 @@ Thank you for choosing the Quiz Game! We hope you enjoy your quiz journey and ha
 
 ---
 
-[GitHub Repository](https://github.com/Jonnyshotu/final-module-examinations-syntax.git)
+[GitHub Repository](https://github.com/Jonnyshotu/Quiz-game.git)
 
 
